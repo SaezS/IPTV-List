@@ -1,0 +1,109 @@
+#EXTM3U
+
+-// Canal 13 //-
+#EXTINF:-1 tvg-id="Chile:Canal 13" tvg-name="Canal 13" tvg-logo="https://2img.net/h/i359.photobucket.com/albums/oo31/ezeneco/13hd.png",Canal 13 (1080p)
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+#EXTINF:-1,Chile:Canal T13 en VIVO
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1,Chile:Canal 13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1,Chile:Canal 13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+-// Chilevisión //-
+#EXTINF:-1,Chile:CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+-// Mega //-
+#EXTINF:-1,Chile:Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (720p)
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+
+-// TVN //-
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN Chile" tvg-logo="https://www.tvn.cl/tvn/site/artic/20260924/imag/foto_0000000220260924141121/TVN.png",TVN Chile
+http://38.199.5.160:8000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
+http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:-1 tvg-id="TVN3.cl@SD",TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
+https://iptv.bitred.cl/tvn/index.m3u8
+#EXTINF:-1,Chile:NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+
+-// UCV TV //-
+#EXTINF:-1,Chile:UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,Chile:UCV2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+-// LA RED //-
+#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red [Geo-blocked]
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+
+-// TV+ //-
+#EXTINF:-1,Chile:TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (720p)
+http://190.234.82.52:8000/play/a0lz/index.m3u8
+
+-// EnerGeek //-
+#EXTINF:-1 tvg-id="EnerGeek.cl@HD",EnerGeek (1080p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek FAN (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD",EnerGeek Radio (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
+
+-// Odisea TV //-
+#EXTINF:-1 tvg-id="OdiseaTV.cl@SD",Odisea TV (720p)
+https://v2.tustreaming.cl/odiseatv/index.m3u8
+
+-// Via X //-
+#EXTINF:-1 tvg-id="ViaX.cl@SD",Via X (576p)
+http://45.170.130.224:8000/play/a025/index.m3u8
+
+-// Zona Latina //- 
+#EXTINF:-1 tvg-id="ZonaLatina.cl@SD",Zona Latina (576p)
+http://45.170.130.224:8000/play/a00x/index.m3u8
+
+-// Noticias y Gobierno //-
+
+#EXTINF:-1,Chile:Camara de Diputados
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+#EXTINF:-1,Chile:TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+
+-// Regiones //-
+#EXTINF:-1,Chile:Iquique TV
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
+#EXTINF:-1,Chile:Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+
+-// Caballitos corriendo //-
+#EXTINF:-1,Chile:Teletrack
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w
+
+-// Radios Streaming //-
+#EXTINF:-1 tvg-id="ADNTV.cl@SD",ADN TV (720p)
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1,Chile:BioBio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cooperativa.cl@SD",Cooperativa (720p)
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadanoRadio.cl@SD",Ciudadano Radio (720p)
+https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioDuna.cl@SD",Radio Duna (720p)
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 tvg-id="RadioPudahuel.cl@SD",Radio Pudahuel (720p)
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AgriculturaTV.cl@SD",Agricultura TV (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+
+
