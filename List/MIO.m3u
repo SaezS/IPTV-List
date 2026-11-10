@@ -101,11 +101,12 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AgriculturaTV.cl@SD",Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
-#EXTINF:-1,Chile:Sonar FM(Santiago-105.3 FM)
-https://unlimited11.dps.live/sonar/sonar.aac/playlist.m3u8
 #EXTINF:-1,Rock & Pop(Santiago-94.1 FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC.mp3
+
 #EXTINF:-1,Radio Futuro(Santiago-88.9 FM)
-https://unlimited6-cl.dps.live/futurotv/futurotv/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
+#EXTINF:-1,Sonar FM(Santiago-105.3 FM)
+https://unlimited11.dps.live/sonar/sonar.aac/playlist.m3u8
 
 
