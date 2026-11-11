@@ -8,6 +8,8 @@ Para usar las listas seguir los siguientes pasos:
 ## Seleccionar Lista
 
   Seleccionar la lista que se quiere utilizar y dar click en "Raw"
+  
+  
   <img width="1884" height="863" alt="image" src="https://github.com/user-attachments/assets/8c383a45-7e45-4d3d-97cb-8a2dc1cfa75e" />
 
 
@@ -15,6 +17,8 @@ Para usar las listas seguir los siguientes pasos:
 ## Copiar la URL
 
   Copiar url de la lista para poder utilizarla en algun reproductor o aplicación que acepte listas .m3u
+  
+  
   <img width="1428" height="1015" alt="image" src="https://github.com/user-attachments/assets/136a5c00-69ed-42fe-a815-cb733769607c" />
 
 
