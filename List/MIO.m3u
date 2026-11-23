@@ -69,6 +69,10 @@ http://45.170.130.224:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ZonaLatina.cl@SD",Zona Latina (576p)
 http://45.170.130.224:8000/play/a00x/index.m3u8
 
+-// Pudahuel TV //-
+#EXTINF:-1 tvg-id="Pudahuel TV" tvg-name="Pudahuel TV" tvg-logo="https://pudahueltv.cl/wp-content/uploads/2026/08/LOGO-APP-1.png",Pudahuel TV
+https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
+
 -// Noticias y Gobierno //-
 
 #EXTINF:-1,Chile:Camara de Diputados
@@ -106,4 +110,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_S
 
 #EXTINF:-1,Radio Futuro(Santiago-88.9 FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
+
 
