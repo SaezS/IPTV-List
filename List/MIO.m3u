@@ -15,6 +15,7 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 
 -// Mega //-
+#EXTM3U url-tvg="https://epgshare01.online"
 #EXTINF:-1 tvg-id="Canal.Mega.(Chile).cl" tvg-name="Mega" group-title="Chile",Chile:Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
